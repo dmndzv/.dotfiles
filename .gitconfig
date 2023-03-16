@@ -1,0 +1,17 @@
+[user]
+	name = Almaz Žaparov
+	email = dmndzv@gmail.com
+	# signingkey =
+[core]
+	editor = code --wait
+[init]
+	defaultBranch = main
+[gpg]
+	# program = gpg
+[commit]
+	# gpgsign = true
+[branch]
+	autosetuprebase = always
+	autosetupmerge = always
+[push]
+	autoSetupRemote = true
